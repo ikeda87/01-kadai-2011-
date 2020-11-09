@@ -1,0 +1,35 @@
+.contact tr{
+  height: 7rem;
+}
+
+.contact th{
+  text-align: right;
+  width: 150px;
+  padding: 0;
+  border-spacing: 0;
+  padding-right: 1rem;
+}
+
+.contact td {
+  width: 480px;
+}
+
+.contact input[type="text"], textarea{
+  width: 100%;
+  border-color:  #b1b1b1;
+}
+
+.button {
+ text-align: center;
+}
+
+.button input{
+  background-color: rgb(88, 204, 219);
+  color:#fff;
+  border-color: #b1b1b1;
+  padding: 15px 25px;
+}
+
+.button input:hover {
+  opacity: 0.6;
+}
